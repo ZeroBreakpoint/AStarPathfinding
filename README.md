@@ -1,0 +1,1 @@
+This project features my C++ implementation of the A* pathfinding algorithm to calculate optimal paths between nodes. The algorithm is demonstrated within a standalone game, showcasing its ability to efficiently navigate through a node-based map. (Left click sets start node and right click sets end node).
