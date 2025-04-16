@@ -30,5 +30,5 @@ This project is my stand-alone demonstration of the A* pathfinding algorithm, im
 - **Path Drawing**: Uses Raylib’s `DrawLine()` to visually trace the calculated route
 
 ## Controls
-- **Left-click** sets the start node
-- **Right-click** sets the end node
+- **Left-click** sets the player controlled agent start node
+- **Right-click** sets the player controlled agent end node
