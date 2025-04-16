@@ -6,7 +6,7 @@ This project is my stand-alone demonstration of the A* pathfinding algorithm, im
 
 ## Key Features
 
-  - **A* Algorithm Implementation**:
+  - **A Star Algorithm Implementation**:
   - Custom-written using `gScore`, `hScore`, and `fScore` with backtracking for path reconstruction
   - Uses squared Euclidean distance as the heuristic
 
