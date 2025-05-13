@@ -2,6 +2,6 @@
 
 void AIForGames::Node::ConnectTo(Node* other, float cost)
 {
-	// Establishes a connection from this node to another node (other) with an associated cost
-	connections.push_back(Edge(other, cost));
+    // Creates a one-way connection to another node
+    connections.push_back(Edge(other, cost));
 }
