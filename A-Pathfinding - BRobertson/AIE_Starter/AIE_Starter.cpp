@@ -14,8 +14,8 @@ int main(int argc, char* argv[])
     int screenHeight = 450;
 
     // Initialises the window with specified dimensions and title
-    InitWindow(screenWidth, screenHeight, "Artificial Intelligence For Games - Assessment 1 - Bradley Robertson");
-    SetTargetFPS(120); // Cap the frame rate to 60 FPS
+    InitWindow(screenWidth, screenHeight, "AStarSearch Pathfinding - Bradley Robertson");
+    SetTargetFPS(120); // Cap the frame rate to 120 FPS
 
     // Define a simple ASCII map where '0' is walkable and '1' is a wall
     std::vector<std::string> asciiMap = {
